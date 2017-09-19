@@ -12,7 +12,7 @@
 
   <remote  name="lnos" fetch="../LineageOS"
            review="review.lineageos.org"
-           revision="cm-15.0" />
+           revision="lineage-15.0" />
 
   <remote  name="github" fetch=".."
            revision="master" />
